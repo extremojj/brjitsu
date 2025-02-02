@@ -18,3 +18,5 @@ set_leds_from_buffer(): Envia o estado do buffer para a matriz de LEDs.
 gpio_callback(): Função de interrupção para tratar os pressionamentos dos botões A e B com debouncing de 200 ms.
 
 repeating_timer_callback(): Função de callback do timer para piscar o LED vermelho do RGB a cada 100 ms (5 vezes por segundo).
+
+Vídeo de uma breve e rápida explicação do código e funcionamento na placa BitDogLab: https://youtu.be/gXAxATMrV3Q
